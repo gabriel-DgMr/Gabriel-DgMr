@@ -33,5 +33,5 @@ I build developer infrastructure for running LLMs on your own hardware. I'm the 
 
 ## 📫 Let's connect
 
-[![Website](https://img.shields.io/badge/lixbon.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lixbon.com)
+[![Website](https://img.shields.io/badge/lixbon.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://founder.lixbon.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-durango-36a83934a)
